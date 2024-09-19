@@ -1,0 +1,2 @@
+Instalação: powershell.exe -ExecutionPolicy Bypass -File winget.ps1 -Action Install
+Desinstalação: powershell.exe -ExecutionPolicy Bypass -File winget.ps1 -Action Uninstall
